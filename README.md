@@ -6,7 +6,7 @@ When a user inputs text into the search area and clicks enter there should be a 
 
 
 ## Screenshots
-https://user-images.githubusercontent.com/70481621/108543338-d82afe80-72dc-11eb-8e24-7f23518b7e66.png
+![](https://user-images.githubusercontent.com/70481621/108543338-d82afe80-72dc-11eb-8e24-7f23518b7e66.png)
 
 
 ## Technologies
@@ -15,9 +15,9 @@ https://user-images.githubusercontent.com/70481621/108543338-d82afe80-72dc-11eb-
 * React Test Library
 * CSS
 * HTML
-
+ 
 ## Packages Installed
-* Axios
+* Axiosgit 
 * React Test Library
 * Prop Types
 
