@@ -6,7 +6,7 @@ When a user inputs text into the search area and clicks enter there should be a 
 
 
 ## Screenshots
-![Example screenshot](./img/Screenshot 2021-02-19 at 16.39.51.png)
+file:///Users/robinedwards/Desktop/tech-test/public/Screenshot%202021-02-19%20at%2016.39.51.png
 
 ## Technologies
 * React
