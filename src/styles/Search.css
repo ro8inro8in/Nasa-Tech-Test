@@ -1,0 +1,22 @@
+.search-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+.search-input {
+  /* margin: auto; */
+  width: 20%;
+  height: 50px;
+  border-radius: 11px;
+  font-size: 20px;
+  padding: 0 10px;
+}
+
+.search-btn {
+    width: 20%;
+    height: 50px;
+    border-radius: 11px;
+    font-size: 20px;
+    padding: 0 10px;
+    margin: 0 20px;
+  }
