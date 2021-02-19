@@ -8,7 +8,7 @@ const SearchResults = ({results}) => {
   } else {
     return (
       <>
-      <div className = "nasa-image">
+      <div className = "image-container">
         {results.map((image) => (
           <img className="card-image" src={image} alt="space-image" />
         ))}
@@ -18,8 +18,8 @@ const SearchResults = ({results}) => {
   }
 };
 
-export default SearchResults;
-
-SearchResults.PropTypes = {
-  results: PropTypes.array.isRequired,
+SearchResults.propTypes = {
+  results: PropTypes.array.isRequired
 };
+
+export default SearchResults;
