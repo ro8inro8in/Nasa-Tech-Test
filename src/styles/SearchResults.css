@@ -1,19 +1,18 @@
 .search-results {
     column-count: 4;
-    column-gap: 15px;
+    column-gap: 5px;
     margin: 50px;
 }
 .image-container {
     display: inline-block;
     width: 100%;
-    margin-top: 15px;
+    margin-top: 1px;
 }
 .image-container img {
     display: block;
     width: 100%;
-    border-radius: 25px;
 }
-.search-results > p {
+/* .search-results > p {
   column-span: all;
 }
 
@@ -30,4 +29,4 @@
   .image-container img {
       border-radius: 5px;
   }
-}
+} */
