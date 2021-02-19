@@ -10,10 +10,10 @@ function App() {
       <img
         className="nasa-logo"
         src="https://cdn.cnn.com/cnnnext/dam/assets/200424060716-nasa-worm-logo.jpg"
-        alt="nasalogo"
+        alt="nasa-logo"
       />
       <Search setSearchResults={setSearchResults} />
-      <searchResults /> 
+      <SearchResults results={searchResults} /> 
     </div>
   );
 }

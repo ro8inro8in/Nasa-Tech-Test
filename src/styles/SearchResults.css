@@ -1,0 +1,17 @@
+
+.nasa-image {
+  display: flex;
+  flex-direction: column;
+  /* width: 100%;
+  margin-top: 15px; */
+}
+
+.nasa-image img {
+  
+  border-radius: 25px;
+}
+
+
+
+
+
