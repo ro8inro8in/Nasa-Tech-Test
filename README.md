@@ -1,48 +1,44 @@
-# React Tech Test. A NASA API search application
+# React Tech Test. A NASA API search application:
 I was given the brief and in the brief I was asked to create a web page application tat cn search a database and retrieve images using NASA API this end point was provided to me as part of the test to use in my code.
 
 # What should happen!
 When a user inputs text into the search area and clicks enter there should be a result relative to the search conditions, e.g if they enter a plant so something that exists within the NASA database they will have access to all the related images, if they input something that has no relevance or miss spell something they will receive an error message.
 
 
-## Screenshots
-![](https://user-images.githubusercontent.com/70481621/108543338-d82afe80-72dc-11eb-8e24-7f23518b7e66.png)
+## Screenshots:
+![](https://user-images.githubusercontent.com/70481621/108549061-91d99d80-72e4-11eb-90f5-0a107a76dc92.png)
+![](https://user-images.githubusercontent.com/70481621/108549139-b170c600-72e4-11eb-9c2b-2fb528356470.png)
 
-
-## Technologies
+## Technologies:
 * React
 * Jest
 * React Test Library
 * CSS
 * HTML
  
-## Packages Installed
-* Axiosgit 
+## Packages Installed:
+* Axios
 * React Test Library
-* Prop Types
+
 
 ## Clone my repo:
 `https://github.com/ro8inro8in/Nasa-Tech-Test`
 
-## Move into that directory and Instal packages 
+## Move into that directory and Instal packages: 
 `cd nasa-tech-test`
 `npm install`
 
-## Start React
+## Start React:
 `NPM start`
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* I would like to make each image more interactive so you can click on the image so it would expand and go to a view in its own window  
+* Improvement of the loading of the page so that everything can render before people access the site
+* Add hamburger navigation 
+* Make the search bar disappear, when you hover over it, it appears 
 
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+## Status:
+Project is: finished!
 
-## Contact
-feel free to contact me!
+## Contact:
+feel free to contact me! `@ro8inro8in`
