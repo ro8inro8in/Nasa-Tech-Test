@@ -10,7 +10,7 @@ When a user inputs text into the search area and clicks enter there should be a 
 <img src="https://user-images.githubusercontent.com/70481621/108549139-b170c600-72e4-11eb-9c2b-2fb528356470.png" width="300" height="600">
 
 ## Technologies:
-* Reactgit 
+* React 
 * Jest
 * React Test Library
 * CSS
