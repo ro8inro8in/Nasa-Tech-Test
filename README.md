@@ -7,7 +7,7 @@ When a user inputs text into the search area and clicks enter there should be a 
 
 ## Screenshots:
 ![](https://user-images.githubusercontent.com/70481621/108549061-91d99d80-72e4-11eb-90f5-0a107a76dc92.png)
-![]<img src="https://user-images.githubusercontent.com/70481621/108549139-b170c600-72e4-11eb-9c2b-2fb528356470.png"width="400" height="790">
+![]("https://user-images.githubusercontent.com/70481621/108549139-b170c600-72e4-11eb-9c2b-2fb528356470.png"width="400" height="790")
 
 ## Technologies:
 * React
