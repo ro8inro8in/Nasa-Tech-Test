@@ -1,8 +1,8 @@
 # React Tech Test. A NASA API search application:
-I was given the brief and in the brief I was asked to create a web page application tat cn search a database and retrieve images using NASA API this end point was provided to me as part of the test to use in my code.
+I was given the brief and I was asked to create a web page application that can search a database and retrieve images using the NASA API. The end point was provided to me as part of the brief to use in my code.
 
 # What should happen!
-When a user inputs text into the search area and clicks enter there should be a result relative to the search conditions, e.g if they enter a plant so something that exists within the NASA database they will have access to all the related images, if they input something that has no relevance or miss spell something they will receive an error message.
+When a user inputs text into the search area and clicks enter there should be a result relative to the search conditions, e.g if they enter a planet or something that exists within the NASA database they will have access to all the related images, if they input something that has no relevance or miss spell something they will receive an error message.
 
 
 ## Screenshots:
