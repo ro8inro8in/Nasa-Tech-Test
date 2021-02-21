@@ -50,4 +50,7 @@
     .logo {
         width: 50%;
     }
+    .search-btn {
+      text-align: center;
+    }
   }
